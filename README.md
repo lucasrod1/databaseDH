@@ -8,4 +8,8 @@ La base de datos de notas consiste en la conjuncion de 4 tablas:
 3. categorias
 4. notas_categorias
 
-Tambien se adjunta el archivo de draw.io que explica las relaciones entre las tablas en forma de Grafico.
+Se adjunta archivo .SQL con el Script para instalar la base de datos "notas" con ejemplos ingresados.
+
+Tambien se adjunta el grafico hecho con draw.io que explica las relaciones entre las tablas.
+
+
